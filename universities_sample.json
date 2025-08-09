@@ -1,0 +1,24 @@
+{
+  "universities": [
+    {
+      "name": "Juilliard School",
+      "url": "https://www.juilliard.edu"
+    },
+    {
+      "name": "Berklee College of Music",
+      "url": null
+    },
+    {
+      "name": "University of Michigan",
+      "url": "https://www.umich.edu"
+    },
+    {
+      "name": "Indiana University",
+      "url": null
+    },
+    {
+      "name": "Eastman School of Music",
+      "url": null
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+# List of universities to scrape
+# Format: University Name, URL (optional)
+# Lines starting with # are comments
+
+Juilliard School, https://www.juilliard.edu
+Berklee College of Music
+University of Michigan, https://www.umich.edu
+Indiana University
+Eastman School of Music
+Yale School of Music
+Northwestern University
+Manhattan School of Music
+New England Conservatory
+Curtis Institute of Music

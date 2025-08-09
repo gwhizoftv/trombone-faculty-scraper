@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+trombone_teachers.csv
+failed_universities.txt
