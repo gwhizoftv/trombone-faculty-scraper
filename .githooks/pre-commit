@@ -1,0 +1,86 @@
+#!/bin/bash
+# .githooks/pre-commit
+# Enforces:
+# 1. No direct commits to $SHARED_BRANCH.
+# 2. Prevent commits on feature/fix branches already merged into $SHARED_BRANCH.
+# 3. Local $SHARED_BRANCH is up-to-date with origin/$SHARED_BRANCH before committing.
+# 4. Runs lint and type checks.
+
+# Variables passed from the setup script
+SHARED_BRANCH="main"
+AGENT_NUM="1"
+LINT_CMD="flake8 . || pylint **/*.py"
+TYPECHECK_CMD="mypy ."
+PROJECT_TYPE="python"
+
+# Variables evaluated when this hook runs
+current_branch=$(git rev-parse --abbrev-ref HEAD)
+
+# 1) Prevent commits on shared branch
+if [ "$current_branch" = "$SHARED_BRANCH" ]; then
+  echo "ERROR: Direct commits to $SHARED_BRANCH are forbidden!" >&2
+  echo "Claude $AGENT_NUM: You must create a feature/fix branch first:" >&2
+  echo "  git checkout -b feature/your-feature-name" >&2
+  exit 1
+fi
+
+# REVISION: Implementing the user's requested logic for Rule 2 (pre-commit)
+# 2) Prevent commits if current branch has already been fully merged into shared branch
+if [[ "$current_branch" =~ ^(feature|fix)/ ]]; then
+  echo "Claude $AGENT_NUM: Checking if '$current_branch' has already been fully merged into '$SHARED_BRANCH' or if it's the first commit..."
+  git fetch origin "$SHARED_BRANCH" >/dev/null 2>&1
+
+  BRANCH_BASE=$(git merge-base "$SHARED_BRANCH" HEAD)
+  BRANCH_COMMITS=$(git rev-list --count "$BRANCH_BASE"..HEAD)
+
+  if [ "$BRANCH_COMMITS" -eq 0 ]; then
+    # This is the very first commit on this feature/fix branch (relative to SHARED_BRANCH base)
+    echo "Claude $AGENT_NUM: This appears to be the first commit on new branch '$current_branch' - proceeding." >&2
+  else
+    # This is not the first commit, so check if it's already merged/outdated
+    REMOTE_SHARED_SHA=$(git rev-parse "origin/$SHARED_BRANCH" 2>/dev/null || echo "")
+
+    if [[ -n "$REMOTE_SHARED_SHA" ]]; then
+      CURRENT_HEAD_SHA=$(git rev-parse HEAD)
+
+      if git merge-base --is-ancestor "$CURRENT_HEAD_SHA" "$REMOTE_SHARED_SHA" &&          [ "$CURRENT_HEAD_SHA" != "$REMOTE_SHARED_SHA" ]; then
+        echo "ERROR: Branch '$current_branch' has been fully merged into '$SHARED_BRANCH' or is outdated." >&2
+        echo "Claude $AGENT_NUM: No further changes allowed on this merged branch." >&2
+        echo "  Please create a *new branch* for additional work." >&2
+        exit 1
+      fi
+    fi
+  fi
+fi
+
+# 3) Ensure local shared branch is up-to-date before any commit on feature/fix branch.
+if git show-ref --verify --quiet "refs/heads/$SHARED_BRANCH"; then
+  echo "Claude $AGENT_NUM: Checking if $SHARED_BRANCH is up-to-date..."
+  git fetch origin "$SHARED_BRANCH" >/dev/null 2>&1
+  LOCAL_SHARED=$(git rev-parse "$SHARED_BRANCH")
+  REMOTE_SHARED=$(git rev-parse "origin/$SHARED_BRANCH")
+
+  if [ "$LOCAL_SHARED" != "$REMOTE_SHARED" ]; then
+    echo "ERROR: Your local '$SHARED_BRANCH' is not updated with origin/$SHARED_BRANCH." >&2
+    echo "Claude $AGENT_NUM: You need to 'git pull origin $SHARED_BRANCH' before committing." >&2
+    exit 1
+  fi
+fi
+
+# 4) Run lint checks
+echo "Claude $AGENT_NUM: Running lint checks..."
+eval "$LINT_CMD" || {
+  echo "ERROR: Lint failed! Fix errors above before committing." >&2
+  exit 1
+}
+
+if [[ "$PROJECT_TYPE" =~ ^(javascript|typescript|react|react-native)$ ]]; then
+  echo "Claude $AGENT_NUM: Running type checks..."
+  eval "$TYPECHECK_CMD" || {
+    echo "ERROR: Type check failed! Fix errors above before committing." >&2
+    exit 1
+  }
+fi
+
+echo "Claude $AGENT_NUM: Pre-commit checks passed ✓"
+exit 0

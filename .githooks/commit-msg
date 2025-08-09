@@ -1,0 +1,38 @@
+#!/bin/bash
+# .githooks/commit-msg
+# Enforces:
+# 1. Commit message starts with "Claude $AGENT_NUM:".
+# 2. No direct commits to $SHARED_BRANCH—unless it’s a merge commit in progress.
+
+# Variables passed from the setup script
+SHARED_BRANCH="main"
+AGENT_NUM="1"
+
+# Variables evaluated when this hook runs
+BRANCH=$(git rev-parse --abbrev-ref HEAD)
+
+# If on shared branch, allow only merge commits (detect via MERGE_HEAD).
+if [[ "$BRANCH" = "$SHARED_BRANCH" ]]; then
+  GIT_DIR=$(git rev-parse --git-dir)
+  # If MERGE_HEAD exists, we are completing a merge—allow that.
+  if [ -f "$GIT_DIR/MERGE_HEAD" ]; then
+    exit 0
+  fi
+  echo "ERROR: You are about to commit directly to '$SHARED_BRANCH'. This is forbidden." >&2
+  echo "Claude $AGENT_NUM: Only merge commits are allowed on $SHARED_BRANCH." >&2
+  exit 1
+fi
+
+# Enforce message format "Claude $AGENT_NUM: <text>" for non-merge commits
+GIT_DIR=$(git rev-parse --git-dir)
+if [ ! -f "$GIT_DIR/MERGE_HEAD" ]; then
+  COMMIT_MSG_FILE="$1"
+  FIRST_LINE=$(head -n1 "$COMMIT_MSG_FILE")
+  if ! [[ "$FIRST_LINE" =~ ^Claude\ [0-9]+:\  ]]; then
+    echo "ERROR: Commit message must start with 'Claude $AGENT_NUM: <description>'" >&2
+    echo "Example: Claude $AGENT_NUM: feat(feature): Implement new widget" >&2
+    exit 1
+  fi
+fi
+
+exit 0

@@ -1,0 +1,31 @@
+#!/bin/bash
+# .githooks/pre-merge-commit
+# Enforces:
+# 1. Local $SHARED_BRANCH is up-to-date with origin/$SHARED_BRANCH before merging into it.
+
+# Variables passed from the setup script
+SHARED_BRANCH="main"
+AGENT_NUM="1"
+
+# Variables evaluated when this hook runs
+TARGET_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+
+# Only apply this check when merging into the SHARED_BRANCH
+if [[ "$TARGET_BRANCH" != "$SHARED_BRANCH" ]]; then
+  exit 0
+fi
+
+echo "Claude $AGENT_NUM: Checking if $SHARED_BRANCH is up-to-date before finalizing merge..."
+git fetch origin "$SHARED_BRANCH" >/dev/null 2>&1
+
+LOCAL=$(git rev-parse "$SHARED_BRANCH")
+REMOTE=$(git rev-parse "origin/$SHARED_BRANCH")
+
+if [ "$LOCAL" != "$REMOTE" ]; then
+  echo "ERROR: Your local '$SHARED_BRANCH' is behind 'origin/$SHARED_BRANCH'." >&2
+  echo "Claude $AGENT_NUM: You must 'git pull origin $SHARED_BRANCH' before merging changes into it." >&2
+  exit 1
+fi
+
+echo "Claude $AGENT_NUM: Pre-merge-commit checks passed ✓"
+exit 0

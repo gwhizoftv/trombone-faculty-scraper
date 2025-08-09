@@ -1,0 +1,6 @@
+- During coding, add analytics if appropriate
+- After coding: write unit tests that run if appropriate
+- After coding: run directory_tree.sh if files were added or deleted.
+- After coding: run 'flake8 . || pylint **/*.py' and fix warnings.
+- For JS/TS/React projects: run 'mypy .' to check types.
+- Project type: python

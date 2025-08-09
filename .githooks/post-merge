@@ -1,0 +1,25 @@
+#!/bin/bash
+# .githooks/post-merge
+# Runs housekeeping tasks after a merge:
+# 1. Updates directory tree.
+# 2. Regenerates ctags.
+
+# Variables passed from the setup script
+AGENT_NUM="1"
+CLONE_DIR="/Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1"
+TREE_SCRIPT="directory_tree.sh"
+
+echo "Claude $AGENT_NUM: Merge completed. Running post-merge tasks..."
+
+# Regenerate directory tree if script exists
+if [[ -f "$CLONE_DIR/$TREE_SCRIPT" ]]; then
+  echo "Claude $AGENT_NUM: Updating directory tree..."
+  (cd "$CLONE_DIR" && ./"$TREE_SCRIPT")
+fi
+
+# Regenerate ctags
+echo "Claude $AGENT_NUM: Regenerating symbol index..."
+(cd "$CLONE_DIR" && ctags -R --exclude=node_modules --exclude=.git .)
+
+echo "Claude $AGENT_NUM: Post-merge tasks completed ✓"
+exit 0

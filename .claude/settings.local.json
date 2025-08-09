@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "[*]",
+      "Search(pattern: *)",
+      "Edit(*)",
+      "Write(*)",
+      "Read(*)",
+      "Bash(claude mcp:*)",
+      "Bash(pip install:*)",
+      "Bash(playwright install:*)",
+      "Bash(echo $VIRTUAL_ENV)",
+      "Bash(python3:*)",
+      "Bash(git reset:*)"
+    ],
+    "deny": []
+  }
+}

@@ -1,0 +1,82 @@
+#!/bin/bash
+# .githooks/pre-push
+# Enforces:
+# 1. Local $SHARED_BRANCH is up-to-date with origin/$SHARED_BRANCH before pushing it.
+# 2. Prevent pushing new commits to feature/fix branches already merged into $SHARED_BRANCH.
+
+# Variables passed from the setup script
+SHARED_BRANCH="main"
+AGENT_NUM="1"
+
+# Fetch shared branch to ensure remote comparison is accurate
+echo "Claude $AGENT_NUM: Pre-push hook: Fetching origin/$SHARED_BRANCH for up-to-date checks..."
+git fetch origin "$SHARED_BRANCH" >/dev/null 2>&1 || {
+  echo "ERROR: Failed to fetch origin/$SHARED_BRANCH. Cannot perform push validation." >&2
+  exit 1
+}
+
+# Loop through all refs being pushed
+# Input: <local-ref> <local-sha> <remote-ref> <remote-sha-before-push>
+while read local_ref local_sha remote_ref remote_sha_before_push
+do
+  branch_name=$(echo "$local_ref" | sed 's|^refs/heads/||')
+
+  if [ "$branch_name" = "$SHARED_BRANCH" ]; then
+    echo "Claude $AGENT_NUM: Checking for remote updates on '$SHARED_BRANCH' before push..."
+    LOCAL_HEAD_SHA="$local_sha"
+    REMOTE_TRACKING_SHA=$(git rev-parse "$REMOTE_NAME/$SHARED_BRANCH" 2>/dev/null || echo "")
+
+    if [ -z "$REMOTE_TRACKING_SHA" ]; then
+        # Remote shared branch does not exist yet (e.g., first push of claude0 branch)
+        echo "Claude $AGENT_NUM: Remote branch 'origin/$SHARED_BRANCH' does not exist. Allowing initial push." >&2
+        continue # Allow initial push of the shared branch
+    fi
+
+    AHEAD_COMMITS=$(git rev-list --count "$REMOTE_TRACKING_SHA".."$LOCAL_HEAD_SHA")
+    BEHIND_COMMITS=$(git rev-list --count "$LOCAL_HEAD_SHA".."$REMOTE_TRACKING_SHA")
+
+    if [ "$BEHIND_COMMITS" -gt 0 ]; then
+        if [ "$AHEAD_COMMITS" -gt 0 ]; then
+            # Divergent state: Local is ahead and behind
+            echo "ERROR: Your local '$SHARED_BRANCH' is divergent from 'origin/$SHARED_BRANCH'." >&2
+            echo "Claude $AGENT_NUM: Your branch is ahead by $AHEAD_COMMITS commits and behind by $BEHIND_COMMITS commits." >&2
+            echo "Claude $AGENT_NUM: You must rebase or merge: git pull --rebase origin $SHARED_BRANCH (recommended for shared branches)" >&2
+            echo "(Note: Even if 'git pull' *seems* to say 'Already up to date', the remote branch has new changes.)" >&2 # New clarifying message
+            exit 1
+        else
+            # Behind state: Local is only behind (0 ahead, >0 behind)
+            echo "ERROR: Remote $SHARED_BRANCH has new changes! Your local '$SHARED_BRANCH' is behind 'origin/$SHARED_BRANCH' by $BEHIND_COMMITS commits." >&2
+            echo "Claude $AGENT_NUM: You must pull first: git pull origin $SHARED_BRANCH" >&2
+            echo "(Note: Even if 'git pull' *seems* to say 'Already up to date', the remote branch has new changes.)" >&2 # New clarifying message
+            exit 1
+        fi
+    fi
+    # If we reached here without exiting, it means the push is allowed (e.g., simply ahead or equal).
+    echo "Claude $AGENT_NUM: Push validation for $SHARED_BRANCH passed ✓"
+    continue # Skip to next ref in push loop
+  fi
+
+# Rule 2: Prevent pushing new commits to already merged feature/fix branches
+  if [[ "$branch_name" =~ ^(feature|fix)/ ]]; then
+    echo "Claude $AGENT_NUM: Validating push for branch '$branch_name' (merged-branch check)..."
+
+    if [ "$remote_sha_before_push" != "0000000000000000000000000000000000000000" ]; then
+      # This branch already exists on remote. Check if its remote tip was already merged.
+      if git merge-base --is-ancestor "$remote_sha_before_push" "origin/$SHARED_BRANCH"; then
+        # If it was merged AND there are new commits being pushed, block.
+        if [ "$local_sha" != "$remote_sha_before_push" ]; then
+          echo "ERROR: Attempting to push new commits to branch '$branch_name'." >&2
+          echo "Claude $AGENT_NUM: This branch has already been officially merged into 'origin/$SHARED_BRANCH'." >&2
+          echo "  Further commits to this branch are not permitted." >&2
+          echo "  Create a new branch for follow-up work." >&2
+          echo "  Delete old branch: 'git branch -d $branch_name' and 'git push origin --delete $branch_name'." >&2
+          exit 1
+        fi
+      fi
+    fi
+    # For new branches (remote_sha_before_push = 000...), or branches not yet merged, allow push.
+  fi
+done < /dev/stdin
+
+echo "Claude $AGENT_NUM: All pre-push checks passed ✓"
+exit 0
