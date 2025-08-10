@@ -19,7 +19,10 @@
       "Bash(/Users/MGW/.nvm/versions/node/v22.14.0/bin/npx --version)",
       "Bash(/Users/MGW/.nvm/versions/node/v22.14.0/bin/node /Users/MGW/.nvm/versions/node/v22.14.0/lib/node_modules/@playwright/mcp/dist/index.js)",
       "Bash(cd:*)",
-      "Bash(mv:*)"
+      "Bash(mv:*)",
+      "WebFetch(domain:docs.anthropic.com)",
+      "Bash(./reset_scraper.sh:*)",
+      "Bash(rm:*)"
     ],
     "deny": []
   }
