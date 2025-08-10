@@ -1,0 +1,30 @@
+Process these 2 universities for trombone faculty:
+
+IMPORTANT: APPEND to existing trombone_faculty_results.csv - DO NOT overwrite!
+Use @filesystem to read the existing file first, then APPEND new rows.
+
+UNIVERSITY #1: Adelphi University
+1. Navigate to http://adelphi.edu
+2. Find search (check TOP-RIGHT corner first)
+3. Search "trombone faculty" or "trombone professor"
+4. Extract from each faculty: Name, Title, EMAIL (required), Phone
+5. APPEND (don't overwrite!) to trombone_faculty_results.csv
+
+UNIVERSITY #2: Appalachian State University
+1. Navigate to http://www.appstate.edu
+2. Find search (check TOP-RIGHT corner first)
+3. Search "trombone faculty" or "trombone professor"
+4. Extract from each faculty: Name, Title, EMAIL (required), Phone
+5. APPEND (don't overwrite!) to trombone_faculty_results.csv
+
+CRITICAL INSTRUCTIONS:
+- APPEND to CSV - never overwrite the existing file!
+- Read existing CSV first with @filesystem, then append new rows
+- Be VERY BRIEF in responses to save context
+- Focus on EMAIL extraction (required for each faculty)
+- After completing these 2, write "2" to progress_tracker.txt as LAST_PROCESSED value
+- Then say "BATCH COMPLETE - Ready for next batch"
+
+CSV Format: University,Faculty Name,Title,Email,Phone,Profile URL,Notes
+
+If no search found in 10 seconds, try /faculty or /people URLs.

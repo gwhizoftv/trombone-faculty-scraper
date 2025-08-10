@@ -1,0 +1,19 @@
+SHORTER VERSION FOR CLAUDE DESKTOP (to save context):
+=====================================================
+
+Use Playwright to go to https://berklee.edu
+
+Find search (top-right corner first). Search "trombone faculty".
+
+Click each trombone faculty profile and extract:
+- Name, Title, Email (required), Phone (if available)
+
+Save to CSV: trombone_faculty_results.csv
+
+Next universities:
+- http://www.bw.edu/academics/conservatory
+- https://www.msmnyc.edu  
+- https://www.juilliard.edu
+- https://necmusic.edu
+
+If no search icon, try /faculty or /people URLs.

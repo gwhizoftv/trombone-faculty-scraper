@@ -1,0 +1,35 @@
+COPY AND PASTE THIS INTO CLAUDE DESKTOP CHAT:
+==========================================
+
+I need you to help me scrape trombone faculty information from university websites using your Playwright and filesystem MCP servers.
+
+STEP 1: Navigate to https://berklee.edu
+
+STEP 2: Find the search function
+- FIRST check TOP RIGHT corner (most common location for search)
+- Look for magnifying glass icon 🔍
+- If not found in 10 seconds, try URL: https://berklee.edu/search
+
+STEP 3: Search for "trombone faculty" (not just "trombone")
+
+STEP 4: Click on each trombone faculty member's profile
+
+STEP 5: Extract and save this information:
+- Faculty name
+- Title
+- EMAIL ADDRESS (required - look for @ symbol)
+- PHONE NUMBER (if available)
+- Profile URL
+
+STEP 6: Write the results to a CSV file called trombone_faculty_results.csv with these columns:
+University, Faculty Name, Title, Email, Phone, Profile URL
+
+After Berklee, process these universities next:
+2. Baldwin-Wallace Conservatory - http://www.bw.edu/academics/conservatory
+3. Manhattan School of Music - https://www.msmnyc.edu
+4. Juilliard School - https://www.juilliard.edu
+5. New England Conservatory - https://necmusic.edu
+
+For each university, follow the same steps. If search doesn't work, try navigating to /faculty or /people or look for "Music Department" → "Faculty" in menus.
+
+IMPORTANT: Focus on finding EMAIL addresses - check for mailto: links, @ symbols, or "Contact" sections on faculty pages.
