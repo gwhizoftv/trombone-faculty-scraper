@@ -1,8 +1,0 @@
-University #196 URL Search Log:
-1. https://www.wheaton.edu/wheaton-college-conservatory-of-music/
-2. https://www.wheaton.edu/search/?searchStudioQuery=trombone%20faculty&isGrid=false&facets=&orderBy=&start=0&model=default
-3. https://www.wheaton.edu/search/?searchStudioQuery=trombone%20faculty&isGrid=false&facets=fq%3DsectionType_s%3A%22faculty%22&orderBy=&start=0&model=default
-4. https://www.wheaton.edu/academics/faculty/ignacio-del-rey/
-5. https://www.wheaton.edu/wheaton-college-conservatory-of-music/music-study-by-area/
-6. https://www.wheaton.edu/wheaton-college-conservatory-of-music/music-study-by-area/brass-area/
-7. https://www.wheaton.edu/wheaton-college-conservatory-of-music/faculty/

@@ -23,7 +23,8 @@
       "WebFetch(domain:docs.anthropic.com)",
       "Bash(./reset_scraper.sh:*)",
       "Bash(rm:*)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "Bash(cat:*)"
     ],
     "deny": []
   }
