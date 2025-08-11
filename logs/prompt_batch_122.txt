@@ -1,0 +1,29 @@
+Process university #123 for trombone faculty:
+
+FIRST: Create these tracking files:
+1. URL log: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/tmp/uni_123_urls.txt
+2. Mark as incomplete: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/tmp/incomplete_university.json
+   Content: {"index": 123, "university": {"University Name": "The College of New Jersey", "URL": "https://tcnj.edu/", "Type": "University"}, "status": "processing"}
+
+UNIVERSITY #123: The College of New Jersey
+
+URL: https://tcnj.edu/
+
+STEPS:
+1. Navigate to URL
+2. For EACH URL you visit (including the main one), append it to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/tmp/uni_123_urls.txt
+   Format: One URL per line
+3. Search for "trombone faculty"  
+4. Write results to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/results/batches/uni_123.csv
+   Headers: University,Faculty Name,Title,Email,Phone,Profile URL,Notes
+5. When COMPLETE:
+   - Delete incomplete marker: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/tmp/incomplete_university.json
+   - Update progress: Change LAST_PROCESSED=123 in progress_tracker.txt
+6. Say only: "Done #123"
+
+CRITICAL INSTRUCTIONS:
+- Track EVERY URL you visit in the log file
+- MINIMIZE OUTPUT - no explanations
+- If NO trombone faculty, write to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/results/no_trombone_found.csv
+
+If search doesn't work, try /faculty or /music URLs.

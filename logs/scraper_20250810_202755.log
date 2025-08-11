@@ -1,0 +1,20 @@
+Starting SMART AUTOMATED trombone faculty scraping
+Log file: logs/scraper_20250810_202755.log
+==================================================
+
+==========================================
+Progress: 14 / 202 universities
+==========================================
+Claude still running from previous session, stopping...
+Stopping Claude Desktop...
+Will monitor for file: results/batches/uni_015.csv
+Starting university #15...
+Processing single university to avoid conversation limits...
+Waiting for Claude to launch...
+Claude window check: Window exists
+Prompt copied to clipboard
+First line of clipboard: Process university #15 for trombone faculty:
+Screenshot saved to debug_screenshots/
+Claude is working...
+Monitoring for batch file: results/batches/uni_015.csv
+  Status: Batch file=0, Progress=0 (15s elapsed)
