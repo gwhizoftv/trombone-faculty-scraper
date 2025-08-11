@@ -62,31 +62,62 @@ def generate_prompt():
 Last URL visited: {last_url}
 Continue from there and find remaining trombone faculty.
 
-CRITICAL:
+CRITICAL: EMAIL ADDRESSES ARE REQUIRED!
+- Only save faculty WITH email addresses
+- Click into profile pages to find emails
+- Check contact/directory pages
+- If no email after thorough search, skip that person
+
+RESUME STEPS:
 1. APPEND to existing: {batch_file}
 2. Track new URLs in: {url_log_file}
-3. Update LAST_PROCESSED={idx} in progress_tracker.txt when done
-4. Say only: "Done #{idx}"
+3. Search deeply for email addresses on:
+   - Individual faculty pages
+   - Department contact pages
+   - Directory listings
+4. Update LAST_PROCESSED={idx} in progress_tracker.txt when done
+5. Say only: "Done #{idx}"
 """
     else:
         # Fresh start
         prompt = f"""Process university #{idx}: {uni['University Name']}
 URL: {uni['URL']}
 
+CRITICAL: EMAIL ADDRESSES ARE REQUIRED - Without emails, the data is useless!
+
 STEPS:
 1. Navigate to URL
 2. IMMEDIATELY write this URL to: {url_log_file}
-3. Search for trombone faculty
-4. For EVERY new page/URL you visit, append it to: {url_log_file}
-   (One URL per line - this creates a trail of your search)
-5. Write results to: {batch_file}
+3. SEARCH FOR TROMBONE:
+   - First: Look for search bar (usually upper right of page) - type "trombone faculty"
+   - If no search bar: Navigate to School of Music or Faculty pages
+   - Click search results and explore thoroughly
+4. For EACH faculty member found:
+   - Click on their profile/bio page
+   - Look for email on their individual page
+   - Check faculty directory pages
+   - Look for "contact" or "email" links
+   - Check department contact pages
+5. For EVERY new page/URL you visit, append it to: {url_log_file}
+6. Write results to: {batch_file}
    Headers: University,Faculty Name,Title,Email,Phone,Profile URL,Notes
-6. Update LAST_PROCESSED={idx} in progress_tracker.txt
-7. Say only: "Done #{idx}"
+   
+ESSENTIAL: 
+- DO NOT save faculty without email addresses
+- If no email found after checking profile, mark as "NO EMAIL FOUND - SKIP"
+- Spend extra time searching for emails - they are often on separate contact pages
 
-IMPORTANT: Track ALL URLs visited in {url_log_file}
-If NO trombone faculty: write to results/no_trombone_found.csv
-Try /faculty or /music if main search fails."""
+7. Update LAST_PROCESSED={idx} in progress_tracker.txt
+8. Say only: "Done #{idx}"
+
+SEARCH PRIORITY:
+1. Use search bar in upper right (type "trombone faculty")
+2. Try /faculty, /music, /directory, /contact pages
+3. School of Music page
+4. Faculty directory
+5. Music faculty list
+
+If NO trombone faculty WITH EMAILS: write to results/no_trombone_found.csv"""
     
     return prompt
 

@@ -1,0 +1,3802 @@
+Starting SMART AUTOMATED trombone faculty scraping V2
+Log file: logs/scraper_20250811_045322.log
+==================================================
+
+==========================================
+Progress: 126 / 202 universities
+==========================================
+Claude still running, stopping...
+Stopping Claude Desktop...
+Starting FRESH for university #127
+Will monitor for: results/batches/uni_127.csv
+Processing university #127...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+SUCCESS: Progress updated to 127
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_127_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 127 / 202 universities
+==========================================
+Starting FRESH for university #128
+Will monitor for: results/batches/uni_128.csv
+Processing university #128...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+Will resume from: https://music.berkeley.edu/people/faculty
+Keep URL log for resume
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 127 / 202 universities
+==========================================
+Found existing URL log - RESUMING university #128
+URLs already visited: 6
+Will monitor for: results/batches/uni_128.csv
+Processing university #128...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (105s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 128
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_128_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 128 / 202 universities
+==========================================
+Starting FRESH for university #129
+Will monitor for: results/batches/uni_129.csv
+Processing university #129...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+SUCCESS: Progress updated to 129
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_129_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 129 / 202 universities
+==========================================
+Starting FRESH for university #130
+Will monitor for: results/batches/uni_130.csv
+Processing university #130...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (60s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 130
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_130_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 130 / 202 universities
+==========================================
+Starting FRESH for university #131
+Will monitor for: results/batches/uni_131.csv
+Processing university #131...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+Will resume from: https://schoolofmusic.ucla.edu/people/duane-benjamin/
+Keep URL log for resume
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 130 / 202 universities
+==========================================
+Found existing URL log - RESUMING university #131
+URLs already visited: 4
+Will monitor for: results/batches/uni_131.csv
+Processing university #131...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (15s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (30s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (45s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (60s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (75s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (90s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+SUCCESS: Progress updated to 131
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_131_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 131 / 202 universities
+==========================================
+Starting FRESH for university #132
+Will monitor for: results/batches/uni_132.csv
+Processing university #132...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+TIMEOUT after 3 minutes
+Will resume from: https://profiles.ucr.edu/app/home/browse/org/D01037
+Keep URL log for resume
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 131 / 202 universities
+==========================================
+Found existing URL log - RESUMING university #132
+URLs already visited: 8
+Will monitor for: results/batches/uni_132.csv
+Processing university #132...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (15s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (30s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (45s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (60s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (75s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (90s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (105s elapsed)
+Batch file has 2 lines
+SUCCESS: Progress updated to 132
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_132_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 132 / 202 universities
+==========================================
+Starting FRESH for university #133
+Will monitor for: results/batches/uni_133.csv
+Processing university #133...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+TIMEOUT after 3 minutes
+Will resume from: https://www.berkschneider.com/about
+Keep URL log for resume
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 132 / 202 universities
+==========================================
+Found existing URL log - RESUMING university #133
+URLs already visited: 8
+Will monitor for: results/batches/uni_133.csv
+Processing university #133...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (15s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (30s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (45s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (60s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+SUCCESS: Progress updated to 133
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_133_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 133 / 202 universities
+==========================================
+Starting FRESH for university #134
+Will monitor for: results/batches/uni_134.csv
+Processing university #134...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+SUCCESS: Progress updated to 134
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_134_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 134 / 202 universities
+==========================================
+Starting FRESH for university #135
+Will monitor for: results/batches/uni_135.csv
+Processing university #135...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+SUCCESS: Progress updated to 135
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_135_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 135 / 202 universities
+==========================================
+Starting FRESH for university #136
+Will monitor for: results/batches/uni_136.csv
+Processing university #136...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+SUCCESS: Progress updated to 136
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_136_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 136 / 202 universities
+==========================================
+Starting FRESH for university #137
+Will monitor for: results/batches/uni_137.csv
+Processing university #137...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (75s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+SUCCESS: Progress updated to 137
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_137_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 137 / 202 universities
+==========================================
+Starting FRESH for university #138
+Will monitor for: results/batches/uni_138.csv
+Processing university #138...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+SUCCESS: Progress updated to 138
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_138_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 138 / 202 universities
+==========================================
+Starting FRESH for university #139
+Will monitor for: results/batches/uni_139.csv
+Processing university #139...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+SUCCESS: Progress updated to 139
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_139_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 139 / 202 universities
+==========================================
+Starting FRESH for university #140
+Will monitor for: results/batches/uni_140.csv
+Processing university #140...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+SUCCESS: Progress updated to 140
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_140_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 140 / 202 universities
+==========================================
+Starting FRESH for university #141
+Will monitor for: results/batches/uni_141.csv
+Processing university #141...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+SUCCESS: Progress updated to 141
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_141_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 141 / 202 universities
+==========================================
+Starting FRESH for university #142
+Will monitor for: results/batches/uni_142.csv
+Processing university #142...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+  Waiting... (165s elapsed)
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+SUCCESS: Progress updated to 142
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_142_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 142 / 202 universities
+==========================================
+Starting FRESH for university #143
+Will monitor for: results/batches/uni_143.csv
+Processing university #143...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+SUCCESS: Progress updated to 143
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_143_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 143 / 202 universities
+==========================================
+Starting FRESH for university #144
+Will monitor for: results/batches/uni_144.csv
+Processing university #144...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+SUCCESS: Progress updated to 144
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_144_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 144 / 202 universities
+==========================================
+Starting FRESH for university #145
+Will monitor for: results/batches/uni_145.csv
+Processing university #145...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (165s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+SUCCESS: Progress updated to 145
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_145_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 145 / 202 universities
+==========================================
+Starting FRESH for university #146
+Will monitor for: results/batches/uni_146.csv
+Processing university #146...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+SUCCESS: Progress updated to 147
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 147 / 202 universities
+==========================================
+Starting FRESH for university #148
+Will monitor for: results/batches/uni_148.csv
+Processing university #148...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+SUCCESS: Progress updated to 148
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_148_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 148 / 202 universities
+==========================================
+Starting FRESH for university #149
+Will monitor for: results/batches/uni_149.csv
+Processing university #149...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (75s elapsed)
+Batch file has 2 lines
+SUCCESS: Progress updated to 149
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_149_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 149 / 202 universities
+==========================================
+Starting FRESH for university #150
+Will monitor for: results/batches/uni_150.csv
+Processing university #150...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 150
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_150_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 150 / 202 universities
+==========================================
+Starting FRESH for university #151
+Will monitor for: results/batches/uni_151.csv
+Processing university #151...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+SUCCESS: Progress updated to 152
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 152 / 202 universities
+==========================================
+Starting FRESH for university #153
+Will monitor for: results/batches/uni_153.csv
+Processing university #153...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (135s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+SUCCESS: Progress updated to 153
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_153_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 153 / 202 universities
+==========================================
+Starting FRESH for university #154
+Will monitor for: results/batches/uni_154.csv
+Processing university #154...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (120s elapsed)
+SUCCESS: Progress updated to 154
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_154_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 154 / 202 universities
+==========================================
+Starting FRESH for university #155
+Will monitor for: results/batches/uni_155.csv
+Processing university #155...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+SUCCESS: Progress updated to 155
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_155_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 155 / 202 universities
+==========================================
+Starting FRESH for university #156
+Will monitor for: results/batches/uni_156.csv
+Processing university #156...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (120s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 156
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_156_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 156 / 202 universities
+==========================================
+Starting FRESH for university #157
+Will monitor for: results/batches/uni_157.csv
+Processing university #157...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+SUCCESS: Progress updated to 157
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_157_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 157 / 202 universities
+==========================================
+Starting FRESH for university #158
+Will monitor for: results/batches/uni_158.csv
+Processing university #158...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 158
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_158_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 158 / 202 universities
+==========================================
+Starting FRESH for university #159
+Will monitor for: results/batches/uni_159.csv
+Processing university #159...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+SUCCESS: Progress updated to 159
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_159_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 159 / 202 universities
+==========================================
+Starting FRESH for university #160
+Will monitor for: results/batches/uni_160.csv
+Processing university #160...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+SUCCESS: Progress updated to 160
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_160_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 160 / 202 universities
+==========================================
+Starting FRESH for university #161
+Will monitor for: results/batches/uni_161.csv
+Processing university #161...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+SUCCESS: Progress updated to 161
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_161_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 161 / 202 universities
+==========================================
+Starting FRESH for university #162
+Will monitor for: results/batches/uni_162.csv
+Processing university #162...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (120s elapsed)
+Batch file has 3 lines
+SUCCESS: Progress updated to 162
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_162_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 162 / 202 universities
+==========================================
+Starting FRESH for university #163
+Will monitor for: results/batches/uni_163.csv
+Processing university #163...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (120s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+SUCCESS: Progress updated to 163
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_163_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 163 / 202 universities
+==========================================
+Starting FRESH for university #164
+Will monitor for: results/batches/uni_164.csv
+Processing university #164...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+SUCCESS: Progress updated to 164
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_164_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 164 / 202 universities
+==========================================
+Starting FRESH for university #165
+Will monitor for: results/batches/uni_165.csv
+Processing university #165...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+Will resume from: https://music.unt.edu/brass/trombone/contact-faculty.html
+Keep URL log for resume
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 164 / 202 universities
+==========================================
+Found existing URL log - RESUMING university #165
+URLs already visited: 11
+Will monitor for: results/batches/uni_165.csv
+Processing university #165...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+Batch file has 6 lines
+  Waiting... (75s elapsed)
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+  Waiting... (90s elapsed)
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+  Waiting... (105s elapsed)
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+SUCCESS: Progress updated to 165
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_165_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 165 / 202 universities
+==========================================
+Starting FRESH for university #166
+Will monitor for: results/batches/uni_166.csv
+Processing university #166...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+Batch file has 3 lines
+  Waiting... (105s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+SUCCESS: Progress updated to 166
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_166_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 166 / 202 universities
+==========================================
+Starting FRESH for university #167
+Will monitor for: results/batches/uni_167.csv
+Processing university #167...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+Will resume from: https://www.uni.edu
+Keep URL log for resume
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 166 / 202 universities
+==========================================
+Found existing URL log - RESUMING university #167
+URLs already visited: 1
+Will monitor for: results/batches/uni_167.csv
+Processing university #167...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+Will resume from: https://www.uni.edu
+Keep URL log for resume
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 166 / 202 universities
+==========================================
+Found existing URL log - RESUMING university #167
+URLs already visited: 1
+Will monitor for: results/batches/uni_167.csv
+Processing university #167...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (90s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 167
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_167_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 167 / 202 universities
+==========================================
+Starting FRESH for university #168
+Will monitor for: results/batches/uni_168.csv
+Processing university #168...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (105s elapsed)
+SUCCESS: Progress updated to 168
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_168_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 168 / 202 universities
+==========================================
+Starting FRESH for university #169
+Will monitor for: results/batches/uni_169.csv
+Processing university #169...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (75s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (90s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (105s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (120s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 3 lines
+  Waiting... (135s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+SUCCESS: Progress updated to 169
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_169_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 169 / 202 universities
+==========================================
+Starting FRESH for university #170
+Will monitor for: results/batches/uni_170.csv
+Processing university #170...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 170
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_170_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 170 / 202 universities
+==========================================
+Starting FRESH for university #171
+Will monitor for: results/batches/uni_171.csv
+Processing university #171...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 171
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_171_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 171 / 202 universities
+==========================================
+Starting FRESH for university #172
+Will monitor for: results/batches/uni_172.csv
+Processing university #172...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (90s elapsed)
+Batch file has 3 lines
+SUCCESS: Progress updated to 172
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_172_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 172 / 202 universities
+==========================================
+Starting FRESH for university #173
+Will monitor for: results/batches/uni_173.csv
+Processing university #173...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (105s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (120s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (135s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (150s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (165s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+TIMEOUT after 3 minutes
+Will resume from: https://music.usc.edu/terry-s-cravens/
+Keep URL log for resume
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 172 / 202 universities
+==========================================
+Found existing URL log - RESUMING university #173
+URLs already visited: 6
+Will monitor for: results/batches/uni_173.csv
+Processing university #173...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (15s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (30s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (45s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+SUCCESS: Progress updated to 173
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_173_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 173 / 202 universities
+==========================================
+Starting FRESH for university #174
+Will monitor for: results/batches/uni_174.csv
+Processing university #174...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (60s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 174
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_174_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 174 / 202 universities
+==========================================
+Starting FRESH for university #175
+Will monitor for: results/batches/uni_175.csv
+Processing university #175...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (90s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+SUCCESS: Progress updated to 175
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_175_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 175 / 202 universities
+==========================================
+Starting FRESH for university #176
+Will monitor for: results/batches/uni_176.csv
+Processing university #176...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+SUCCESS: Progress updated to 176
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_176_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 176 / 202 universities
+==========================================
+Starting FRESH for university #177
+Will monitor for: results/batches/uni_177.csv
+Processing university #177...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+Will resume from: https://utm.edu/directory/departments/MUS/staff
+Keep URL log for resume
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 176 / 202 universities
+==========================================
+Found existing URL log - RESUMING university #177
+URLs already visited: 5
+Will monitor for: results/batches/uni_177.csv
+Processing university #177...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 177
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_177_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 177 / 202 universities
+==========================================
+Starting FRESH for university #178
+Will monitor for: results/batches/uni_178.csv
+Processing university #178...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 178
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_178_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 178 / 202 universities
+==========================================
+Starting FRESH for university #179
+Will monitor for: results/batches/uni_179.csv
+Processing university #179...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (135s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 179
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_179_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 179 / 202 universities
+==========================================
+Starting FRESH for university #180
+Will monitor for: results/batches/uni_180.csv
+Processing university #180...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (135s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+SUCCESS: Progress updated to 180
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_180_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 180 / 202 universities
+==========================================
+Starting FRESH for university #181
+Will monitor for: results/batches/uni_181.csv
+Processing university #181...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (90s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (105s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 181
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_181_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 181 / 202 universities
+==========================================
+Starting FRESH for university #182
+Will monitor for: results/batches/uni_182.csv
+Processing university #182...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+SUCCESS: Progress updated to 182
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_182_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 182 / 202 universities
+==========================================
+Starting FRESH for university #183
+Will monitor for: results/batches/uni_183.csv
+Processing university #183...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+SUCCESS: Progress updated to 183
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_183_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 183 / 202 universities
+==========================================
+Starting FRESH for university #184
+Will monitor for: results/batches/uni_184.csv
+Processing university #184...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (150s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+SUCCESS: Progress updated to 184
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_184_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 184 / 202 universities
+==========================================
+Starting FRESH for university #185
+Will monitor for: results/batches/uni_185.csv
+Processing university #185...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 185
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_185_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 185 / 202 universities
+==========================================
+Starting FRESH for university #186
+Will monitor for: results/batches/uni_186.csv
+Processing university #186...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (60s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 186
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_186_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 186 / 202 universities
+==========================================
+Starting FRESH for university #187
+Will monitor for: results/batches/uni_187.csv
+Processing university #187...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+SUCCESS: Progress updated to 187
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_187_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 187 / 202 universities
+==========================================
+Starting FRESH for university #188
+Will monitor for: results/batches/uni_188.csv
+Processing university #188...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (75s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 188
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_188_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 188 / 202 universities
+==========================================
+Starting FRESH for university #189
+Will monitor for: results/batches/uni_189.csv
+Processing university #189...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (75s elapsed)
+SUCCESS: Progress updated to 189
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_189_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 189 / 202 universities
+==========================================
+Starting FRESH for university #190
+Will monitor for: results/batches/uni_190.csv
+Processing university #190...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 190
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_190_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 190 / 202 universities
+==========================================
+Starting FRESH for university #191
+Will monitor for: results/batches/uni_191.csv
+Processing university #191...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+Batch file has 2 lines
+  Waiting... (75s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 191
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_191_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 191 / 202 universities
+==========================================
+Starting FRESH for university #192
+Will monitor for: results/batches/uni_192.csv
+Processing university #192...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+SUCCESS: Progress updated to 192
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_192_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 192 / 202 universities
+==========================================
+Starting FRESH for university #193
+Will monitor for: results/batches/uni_193.csv
+Processing university #193...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 193
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_193_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 193 / 202 universities
+==========================================
+Starting FRESH for university #194
+Will monitor for: results/batches/uni_194.csv
+Processing university #194...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+Will resume from: https://wmich.edu/music/directory
+Keep URL log for resume
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 193 / 202 universities
+==========================================
+Found existing URL log - RESUMING university #194
+URLs already visited: 6
+Will monitor for: results/batches/uni_194.csv
+Processing university #194...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+SUCCESS: Progress updated to 194
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_194_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 194 / 202 universities
+==========================================
+Starting FRESH for university #195
+Will monitor for: results/batches/uni_195.csv
+Processing university #195...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (105s elapsed)
+Batch file has 2 lines
+SUCCESS: Progress updated to 195
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_195_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 195 / 202 universities
+==========================================
+Starting FRESH for university #196
+Will monitor for: results/batches/uni_196.csv
+Processing university #196...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (105s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 196
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_196_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 196 / 202 universities
+==========================================
+Starting FRESH for university #197
+Will monitor for: results/batches/uni_197.csv
+Processing university #197...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+SUCCESS: Progress updated to 197
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_197_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 197 / 202 universities
+==========================================
+Starting FRESH for university #198
+Will monitor for: results/batches/uni_198.csv
+Processing university #198...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+SUCCESS: Progress updated to 198
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_198_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 198 / 202 universities
+==========================================
+Starting FRESH for university #199
+Will monitor for: results/batches/uni_199.csv
+Processing university #199...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+Will resume from: https://people.wright.edu/christopher.chaffee
+Keep URL log for resume
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 198 / 202 universities
+==========================================
+Found existing URL log - RESUMING university #199
+URLs already visited: 7
+Will monitor for: results/batches/uni_199.csv
+Processing university #199...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+Will resume from: https://people.wright.edu/christopher.chaffee
+Keep URL log for resume
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 198 / 202 universities
+==========================================
+Found existing URL log - RESUMING university #199
+URLs already visited: 7
+Will monitor for: results/batches/uni_199.csv
+Processing university #199...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+SUCCESS: Progress updated to 199
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_199_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 199 / 202 universities
+==========================================
+Starting FRESH for university #200
+Will monitor for: results/batches/uni_200.csv
+Processing university #200...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 200
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_200_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 200 / 202 universities
+==========================================
+Starting FRESH for university #201
+Will monitor for: results/batches/uni_201.csv
+Processing university #201...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+Will resume from: https://ysu.edu/
+Keep URL log for resume
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 200 / 202 universities
+==========================================
+Found existing URL log - RESUMING university #201
+URLs already visited: 0
+Will monitor for: results/batches/uni_201.csv
+Processing university #201...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (90s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 201
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_201_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 201 / 202 universities
+==========================================
+Starting FRESH for university #202
+Will monitor for: results/batches/uni_202.csv
+Processing university #202...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...

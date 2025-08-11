@@ -1,0 +1,70 @@
+Starting SMART AUTOMATED trombone faculty scraping V2
+Log file: logs/scraper_20250811_044250.log
+==================================================
+
+==========================================
+Progress: 123 / 202 universities
+==========================================
+Claude still running, stopping...
+Stopping Claude Desktop...
+Starting FRESH for university #124
+Will monitor for: results/batches/uni_124.csv
+Processing university #124...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+Will resume from: https://indianastate.edu/directory
+Keep URL log for resume
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 123 / 202 universities
+==========================================
+Found existing URL log - RESUMING university #124
+URLs already visited: 8
+Will monitor for: results/batches/uni_124.csv
+Processing university #124...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+SUCCESS: Progress updated to 124
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_124_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 124 / 202 universities
+==========================================
+Starting FRESH for university #125
+Will monitor for: results/batches/uni_125.csv
+Processing university #125...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
