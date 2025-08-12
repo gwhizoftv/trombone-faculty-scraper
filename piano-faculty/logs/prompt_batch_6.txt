@@ -1,0 +1,20 @@
+RESUMING university #7: Belmont University
+
+Last URL visited: https://mycampusapps.belmont.edu/teledirectory/index.cfm?dept=640&mode=listPeople
+Continue from there and find remaining piano faculty.
+
+CRITICAL: EMAIL ADDRESSES ARE REQUIRED!
+- Only save faculty WITH email addresses
+- Click into profile pages to find emails
+- Check contact/directory pages
+- If no email after thorough search, skip that person
+
+RESUME STEPS:
+1. APPEND to existing: results/batches/uni_007.csv
+2. Track new URLs in: tmp/uni_007_urls.txt
+3. Search deeply for email addresses on:
+   - Individual faculty pages
+   - Department contact pages
+   - Directory listings
+4. Update LAST_PROCESSED=7 in progress_tracker.txt when done
+5. Say only: "Done #7"

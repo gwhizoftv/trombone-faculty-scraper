@@ -6,10 +6,7 @@ LOG_DIR="logs"
 BATCH_DIR="results/batches"
 TMP_DIR="tmp"
 URL_LOG_DIR="results/url_logs"
-mkdir -p "$LOG_DIR"
-mkdir -p "$BATCH_DIR"
-mkdir -p "$TMP_DIR"
-mkdir -p "$URL_LOG_DIR"
+# Directories should already exist from setup_instrument_search.sh
 TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
 LOG_FILE="$LOG_DIR/scraper_${TIMESTAMP}.log"
 
@@ -25,10 +22,10 @@ log_message "=================================================="
 # Configuration
 MAX_WAIT_MINUTES=3   # 3 minutes for one university
 
-# Initialize if needed
+# Progress tracker should already exist from setup_instrument_search.sh
 if [ ! -f progress_tracker.txt ]; then
-    echo "LAST_PROCESSED=0" > progress_tracker.txt
-    echo "TOTAL_UNIVERSITIES=202" >> progress_tracker.txt
+    log_message "ERROR: progress_tracker.txt not found. Run setup script first."
+    exit 1
 fi
 
 # Function to kill Claude Desktop
@@ -45,9 +42,24 @@ kill_claude() {
 }
 
 while true; do
+    # Fix corrupted progress_tracker.txt if needed
+    if ! grep -q "^TOTAL_UNIVERSITIES=" progress_tracker.txt; then
+        log_message "WARNING: progress_tracker.txt appears corrupted, attempting to fix..."
+        LAST_VAL=$(grep -o "LAST_PROCESSED=[0-9]*" progress_tracker.txt | cut -d'=' -f2)
+        if [ -n "$LAST_VAL" ]; then
+            echo "LAST_PROCESSED=$LAST_VAL" > progress_tracker.txt
+            echo "TOTAL_UNIVERSITIES=202" >> progress_tracker.txt
+            log_message "Fixed progress_tracker.txt with LAST_PROCESSED=$LAST_VAL"
+        else
+            log_message "ERROR: Could not recover progress, resetting to 0"
+            echo "LAST_PROCESSED=0" > progress_tracker.txt
+            echo "TOTAL_UNIVERSITIES=202" >> progress_tracker.txt
+        fi
+    fi
+    
     # Read current progress
-    LAST=$(grep LAST_PROCESSED progress_tracker.txt | cut -d'=' -f2 | tr -d ' ')
-    TOTAL=$(grep TOTAL_UNIVERSITIES progress_tracker.txt | cut -d'=' -f2 | tr -d ' ')
+    LAST=$(grep "^LAST_PROCESSED=" progress_tracker.txt | cut -d'=' -f2 | tr -d ' ')
+    TOTAL=$(grep "^TOTAL_UNIVERSITIES=" progress_tracker.txt | cut -d'=' -f2 | tr -d ' ')
     
     # Default TOTAL if not found
     if [ -z "$TOTAL" ]; then
@@ -94,6 +106,66 @@ while true; do
     cp current_prompt.txt "$LOG_DIR/prompt_batch_${NEXT_START}.txt"
     
     log_message "Processing university #$NEXT_START..."
+    
+    # Update Claude Desktop config to set working directory
+    CONFIG_FILE="$HOME/Library/Application Support/Claude/claude_desktop_config.json"
+    CURRENT_DIR=$(pwd)
+    
+    if [ -f "$CONFIG_FILE" ]; then
+        # Backup original config
+        cp "$CONFIG_FILE" "$CONFIG_FILE.bak"
+        
+        # Update the cwd in the config using Python (more reliable for JSON)
+        python3 -c "
+import json
+import sys
+
+config_file = '$CONFIG_FILE'
+current_dir = '$CURRENT_DIR'
+
+try:
+    with open(config_file, 'r') as f:
+        config = json.load(f)
+    
+    # Update global cwd setting
+    config['cwd'] = current_dir
+    
+    # Also update MCP server settings to use current directory
+    if 'mcpServers' in config:
+        for server_name, server_config in config['mcpServers'].items():
+            # Update cwd for each server
+            server_config['cwd'] = current_dir
+            
+            # For filesystem server, update the allowed path argument
+            if server_name == 'filesystem' and 'args' in server_config:
+                # Replace the last argument (the allowed path) with current directory
+                if len(server_config['args']) > 0:
+                    server_config['args'][-1] = current_dir
+    
+    with open(config_file, 'w') as f:
+        json.dump(config, f, indent=2)
+    
+    print(f'Updated Claude Desktop config: cwd = {current_dir}')
+    print(f'Updated all MCP servers to use: {current_dir}')
+except Exception as e:
+    print(f'Error updating config: {e}')
+    sys.exit(1)
+"
+        
+        if [ $? -eq 0 ]; then
+            log_message "Updated Claude Desktop working directory to: $CURRENT_DIR"
+            log_message "Updated all MCP servers to use: $CURRENT_DIR"
+            log_message "IMPORTANT: Claude Desktop needs to be fully restarted to reload config"
+            
+            # Kill Claude to force restart with new config
+            kill_claude
+            sleep 2
+        else
+            log_message "Warning: Could not update Claude Desktop config"
+        fi
+    else
+        log_message "Warning: Claude Desktop config not found at $CONFIG_FILE"
+    fi
     
     # Launch Claude
     open -F /Applications/Claude.app
@@ -150,9 +222,10 @@ while true; do
     
     while [ $SECONDS_WAITED -lt $MAX_SECONDS ]; do
         # Check progress update
-        CURRENT_PROGRESS=$(grep LAST_PROCESSED progress_tracker.txt | cut -d'=' -f2 | tr -d ' ')
+        CURRENT_PROGRESS=$(grep "^LAST_PROCESSED=" progress_tracker.txt | cut -d'=' -f2 | tr -d ' ')
         
-        if [ "$CURRENT_PROGRESS" -gt "$LAST" ]; then
+        # Validate that CURRENT_PROGRESS is a number
+        if [[ "$CURRENT_PROGRESS" =~ ^[0-9]+$ ]] && [ "$CURRENT_PROGRESS" -gt "$LAST" ]; then
             log_message "SUCCESS: Progress updated to $CURRENT_PROGRESS"
             SUCCESS=1
             break

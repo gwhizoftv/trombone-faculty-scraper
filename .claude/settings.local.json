@@ -24,7 +24,16 @@
       "Bash(./reset_scraper.sh:*)",
       "Bash(rm:*)",
       "Bash(mkdir:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(cp:*)",
+      "Bash(./fix_piano_scripts.sh:*)",
+      "Bash(grep:*)",
+      "Bash(for file in *.py *.sh)",
+      "Bash(do sed -i '' 's|piano marketing-claude1|trombone marketing-claude1|g' \"$file\")",
+      "Bash(done)",
+      "Bash(./copy_trombone_results.sh:*)",
+      "Bash(for file in *.py)",
+      "Bash(do grep -l \"/Volumes\" \"$file\")"
     ],
     "deny": []
   }

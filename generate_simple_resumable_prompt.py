@@ -52,8 +52,8 @@ def generate_prompt():
     last_url = check_for_resume(idx)
     
     # Create URL tracking file path
-    url_log_file = f"/Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/tmp/uni_{idx:03d}_urls.txt"
-    batch_file = f"/Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/results/batches/uni_{idx:03d}.csv"
+    url_log_file = f"tmp/uni_{idx:03d}_urls.txt"
+    batch_file = f"results/batches/uni_{idx:03d}.csv"
     
     if last_url:
         # Resume prompt
@@ -75,7 +75,9 @@ RESUME STEPS:
    - Individual faculty pages
    - Department contact pages
    - Directory listings
-4. Update LAST_PROCESSED={idx} in progress_tracker.txt when done
+4. Update progress_tracker.txt - REPLACE the entire file with exactly these 2 lines:
+   LAST_PROCESSED={idx}
+   TOTAL_UNIVERSITIES=202
 5. Say only: "Done #{idx}"
 """
     else:
@@ -107,7 +109,9 @@ ESSENTIAL:
 - If no email found after checking profile, mark as "NO EMAIL FOUND - SKIP"
 - Spend extra time searching for emails - they are often on separate contact pages
 
-7. Update LAST_PROCESSED={idx} in progress_tracker.txt
+7. Update progress_tracker.txt - REPLACE the entire file with exactly these 2 lines:
+   LAST_PROCESSED={idx}
+   TOTAL_UNIVERSITIES=202
 8. Say only: "Done #{idx}"
 
 SEARCH PRIORITY:

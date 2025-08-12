@@ -1,0 +1,1547 @@
+Starting SMART AUTOMATED piano faculty scraping V2
+Log file: logs/scraper_20250811_221658.log
+==================================================
+
+==========================================
+Progress: 0 / 202 universities
+==========================================
+Claude still running, stopping...
+Stopping Claude Desktop...
+Starting FRESH for university #1
+Will monitor for: results/batches/uni_001.csv
+Processing university #1...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+Batch file has 5 lines
+Batch file has 5 lines
+  Waiting... (90s elapsed)
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+SUCCESS: Progress updated to 1
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_001_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 1 / 202 universities
+==========================================
+Starting FRESH for university #2
+Will monitor for: results/batches/uni_002.csv
+Processing university #2...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+  Waiting... (105s elapsed)
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 11 lines
+Batch file has 11 lines
+Batch file has 11 lines
+Batch file has 11 lines
+  Waiting... (120s elapsed)
+Batch file has 11 lines
+Batch file has 11 lines
+Batch file has 11 lines
+Batch file has 11 lines
+Batch file has 11 lines
+SUCCESS: Progress updated to 2
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_002_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 2 / 202 universities
+==========================================
+Starting FRESH for university #3
+Will monitor for: results/batches/uni_003.csv
+Processing university #3...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+Will resume from: https://www.apsu.edu/directory/faculty/woodj.php
+Keep URL log for resume
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 2 / 202 universities
+==========================================
+Found existing URL log - RESUMING university #3
+URLs already visited: 9
+Will monitor for: results/batches/uni_003.csv
+Processing university #3...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (45s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (60s elapsed)
+Batch file has 2 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+  Waiting... (75s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+  Waiting... (90s elapsed)
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+  Waiting... (105s elapsed)
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+  Waiting... (120s elapsed)
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+  Waiting... (135s elapsed)
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+  Waiting... (150s elapsed)
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+  Waiting... (165s elapsed)
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+TIMEOUT after 3 minutes
+Will resume from: https://www.apsu.edu/directory/faculty/parkersa.php
+Keep URL log for resume
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 2 / 202 universities
+==========================================
+Found existing URL log - RESUMING university #3
+URLs already visited: 4
+Will monitor for: results/batches/uni_003.csv
+Processing university #3...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+  Waiting... (15s elapsed)
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+  Waiting... (30s elapsed)
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+  Waiting... (45s elapsed)
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+  Waiting... (60s elapsed)
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+  Waiting... (75s elapsed)
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+SUCCESS: Progress updated to 3
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_003_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 3 / 202 universities
+==========================================
+Starting FRESH for university #4
+Will monitor for: results/batches/uni_004.csv
+Processing university #4...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+SUCCESS: Progress updated to 4
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_004_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 4 / 202 universities
+==========================================
+Starting FRESH for university #5
+Will monitor for: results/batches/uni_005.csv
+Processing university #5...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+Batch file has 6 lines
+SUCCESS: Progress updated to 5
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_005_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 5 / 202 universities
+==========================================
+Starting FRESH for university #6
+Will monitor for: results/batches/uni_006.csv
+Processing university #6...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 5 / 202 universities
+==========================================
+Starting FRESH for university #6
+Will monitor for: results/batches/uni_006.csv
+Processing university #6...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+SUCCESS: Progress updated to 7
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 7 / 202 universities
+==========================================
+Starting FRESH for university #8
+Will monitor for: results/batches/uni_008.csv
+Processing university #8...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+  Waiting... (135s elapsed)
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+SUCCESS: Progress updated to 8
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_008_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 8 / 202 universities
+==========================================
+Starting FRESH for university #9
+Will monitor for: results/batches/uni_009.csv
+Processing university #9...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+SUCCESS: Progress updated to 9
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_009_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 9 / 202 universities
+==========================================
+Starting FRESH for university #10
+Will monitor for: results/batches/uni_010.csv
+Processing university #10...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+SUCCESS: Progress updated to 10
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_010_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 10 / 202 universities
+==========================================
+Starting FRESH for university #11
+Will monitor for: results/batches/uni_011.csv
+Processing university #11...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+Batch file has 8 lines
+Batch file has 8 lines
+Batch file has 8 lines
+Batch file has 8 lines
+Batch file has 8 lines
+Batch file has 8 lines
+Batch file has 8 lines
+SUCCESS: Progress updated to 11
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_011_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 11 / 202 universities
+==========================================
+Starting FRESH for university #12
+Will monitor for: results/batches/uni_012.csv
+Processing university #12...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+Will resume from: https://www.bu.edu/cfa/about/contact-directions/directory/siu-yan-luk/
+Keep URL log for resume
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 11 / 202 universities
+==========================================
+Found existing URL log - RESUMING university #12
+URLs already visited: 6
+Will monitor for: results/batches/uni_012.csv
+Processing university #12...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (30s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (45s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (60s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (75s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (90s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+SUCCESS: Progress updated to 12
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_012_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 12 / 202 universities
+==========================================
+Starting FRESH for university #13
+Will monitor for: results/batches/uni_013.csv
+Processing university #13...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+SUCCESS: Progress updated to 13
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_013_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 13 / 202 universities
+==========================================
+Starting FRESH for university #14
+Will monitor for: results/batches/uni_014.csv
+Processing university #14...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+Batch file has 3 lines
+  Waiting... (150s elapsed)
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+Batch file has 3 lines
+SUCCESS: Progress updated to 14
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_014_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 14 / 202 universities
+==========================================
+Starting FRESH for university #15
+Will monitor for: results/batches/uni_015.csv
+Processing university #15...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+Batch file has 7 lines
+SUCCESS: Progress updated to 15
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_015_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 15 / 202 universities
+==========================================
+Starting FRESH for university #16
+Will monitor for: results/batches/uni_016.csv
+Processing university #16...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+Batch file has 10 lines
+Batch file has 10 lines
+Batch file has 10 lines
+Batch file has 10 lines
+Batch file has 10 lines
+Batch file has 10 lines
+Batch file has 10 lines
+Batch file has 10 lines
+SUCCESS: Progress updated to 16
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_016_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 16 / 202 universities
+==========================================
+Starting FRESH for university #17
+Will monitor for: results/batches/uni_017.csv
+Processing university #17...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+Batch file has 4 lines
+SUCCESS: Progress updated to 17
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_017_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 17 / 202 universities
+==========================================
+Starting FRESH for university #18
+Will monitor for: results/batches/uni_018.csv
+Processing university #18...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (75s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+SUCCESS: Progress updated to 18
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_018_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 18 / 202 universities
+==========================================
+Starting FRESH for university #19
+Will monitor for: results/batches/uni_019.csv
+Processing university #19...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+Batch file has 8 lines
+Batch file has 8 lines
+Batch file has 8 lines
+Batch file has 8 lines
+SUCCESS: Progress updated to 19
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_019_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 19 / 202 universities
+==========================================
+Starting FRESH for university #20
+Will monitor for: results/batches/uni_020.csv
+Processing university #20...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 1 / 202 universities
+==========================================
+Starting FRESH for university #2
+Will monitor for: results/batches/uni_002.csv
+Processing university #2...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+Batch file has 11 lines
+Fresh run completed with batch file
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 2 / 202 universities
+==========================================
+Starting FRESH for university #3
+Will monitor for: results/batches/uni_003.csv
+Processing university #3...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+Batch file has 5 lines
+Fresh run completed with batch file
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 3 / 202 universities
+==========================================
+Starting FRESH for university #4
+Will monitor for: results/batches/uni_004.csv
+Processing university #4...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+Batch file has 6 lines
+Fresh run completed with batch file
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 4 / 202 universities
+==========================================
+Starting FRESH for university #5
+Will monitor for: results/batches/uni_005.csv
+Processing university #5...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+Batch file has 6 lines
+Fresh run completed with batch file
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 5 / 202 universities
+==========================================
+Starting FRESH for university #6
+Will monitor for: results/batches/uni_006.csv
+Processing university #6...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+SUCCESS: Progress updated to 7
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 7 / 202 universities
+==========================================
+Starting FRESH for university #8
+Will monitor for: results/batches/uni_008.csv
+Processing university #8...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+Batch file has 5 lines
+Fresh run completed with batch file
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 8 / 202 universities
+==========================================
+Starting FRESH for university #9
+Will monitor for: results/batches/uni_009.csv
+Processing university #9...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+Batch file has 18 lines
+Batch file has 18 lines
+Batch file has 18 lines
+Batch file has 18 lines
+Batch file has 18 lines
+Batch file has 18 lines
+Batch file has 18 lines
+Batch file has 18 lines
+SUCCESS: Progress updated to 9
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_009_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 9 / 202 universities
+==========================================
+Starting FRESH for university #10
+Will monitor for: results/batches/uni_010.csv
+Processing university #10...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+Batch file has 4 lines
+Fresh run completed with batch file
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 10 / 202 universities
+==========================================
+Starting FRESH for university #11
+Will monitor for: results/batches/uni_011.csv
+Processing university #11...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+Batch file has 8 lines
+Fresh run completed with batch file
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 11 / 202 universities
+==========================================
+Starting FRESH for university #12
+Will monitor for: results/batches/uni_012.csv
+Processing university #12...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+Batch file has 4 lines
+Fresh run completed with batch file
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 12 / 202 universities
+==========================================
+Starting FRESH for university #13
+Will monitor for: results/batches/uni_013.csv
+Processing university #13...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+Batch file has 5 lines
+Fresh run completed with batch file
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 13 / 202 universities
+==========================================
+Starting FRESH for university #14
+Will monitor for: results/batches/uni_014.csv
+Processing university #14...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+Batch file has 3 lines
+Fresh run completed with batch file
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 14 / 202 universities
+==========================================
+Starting FRESH for university #15
+Will monitor for: results/batches/uni_015.csv
+Processing university #15...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+Batch file has 7 lines
+Fresh run completed with batch file
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 15 / 202 universities
+==========================================
+Starting FRESH for university #16
+Will monitor for: results/batches/uni_016.csv
+Processing university #16...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+Batch file has 10 lines
+Fresh run completed with batch file
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 16 / 202 universities
+==========================================
+Starting FRESH for university #17
+Will monitor for: results/batches/uni_017.csv
+Processing university #17...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+Batch file has 4 lines
+Fresh run completed with batch file
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 17 / 202 universities
+==========================================
+Starting FRESH for university #18
+Will monitor for: results/batches/uni_018.csv
+Processing university #18...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+Batch file has 2 lines
+Fresh run completed with batch file
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 18 / 202 universities
+==========================================
+Starting FRESH for university #19
+Will monitor for: results/batches/uni_019.csv
+Processing university #19...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+Batch file has 8 lines
+Fresh run completed with batch file
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 19 / 202 universities
+==========================================
+Starting FRESH for university #20
+Will monitor for: results/batches/uni_020.csv
+Processing university #20...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+Batch file has 17 lines
+Batch file has 17 lines
+Batch file has 17 lines
+Batch file has 17 lines
+Batch file has 17 lines
+Batch file has 17 lines
+Batch file has 17 lines
+  Waiting... (165s elapsed)
+SUCCESS: Progress updated to 20
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_020_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 20 / 202 universities
+==========================================
+Starting FRESH for university #21
+Will monitor for: results/batches/uni_021.csv
+Processing university #21...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+Batch file has 5 lines
+SUCCESS: Progress updated to 21
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_021_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 21 / 202 universities
+==========================================
+Starting FRESH for university #22
+Will monitor for: results/batches/uni_022.csv
+Processing university #22...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+Batch file has 2 lines
+Batch file has 2 lines
+Batch file has 2 lines
+  Waiting... (90s elapsed)
+Batch file has 2 lines
+SUCCESS: Progress updated to 22
+Stopping Claude Desktop...
+Moving URL log to permanent storage: results/url_logs/uni_022_urls.txt
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 22 / 202 universities
+==========================================
+Starting FRESH for university #23
+Will monitor for: results/batches/uni_023.csv
+Processing university #23...
+Updated Claude Desktop working directory to: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+Updated all MCP servers to use: /Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/piano-faculty
+IMPORTANT: Claude Desktop needs to be fully restarted to reload config
+Stopping Claude Desktop...
+Waiting for Claude to launch...
+Claude window: Window exists
+Prompt copied to clipboard
+Claude is working...
+  Waiting... (15s elapsed)
+  Waiting... (30s elapsed)
+  Waiting... (45s elapsed)
+  Waiting... (60s elapsed)
+  Waiting... (75s elapsed)
+  Waiting... (90s elapsed)
+  Waiting... (105s elapsed)
+  Waiting... (120s elapsed)
+  Waiting... (135s elapsed)
+  Waiting... (150s elapsed)
+  Waiting... (165s elapsed)
+TIMEOUT after 3 minutes
+No URL log found - may need to retry from start
+Stopping Claude Desktop...
+Waiting 2 seconds before next batch...
+
+==========================================
+Progress: 22TOTAL_UNIVERSITIES / 22TOTAL_UNIVERSITIES universities
+==========================================
+
+==================================================
+SCRAPING COMPLETE!
+Batch files in: results/batches
+Check logs in: logs

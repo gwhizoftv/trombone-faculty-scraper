@@ -37,8 +37,8 @@ def generate_prompt():
         return "ALL UNIVERSITIES WITH MISSING EMAILS PROCESSED!"
     
     # File paths
-    batch_file = f"/Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/results/batches/email_pass2_{idx:03d}.csv"
-    url_log_file = f"/Volumes/8TB-SSD/TotalVU Dropbox/Michael Williams/Adrienne Albert Website/trombone marketing-claude1/tmp/email_pass2_{idx:03d}_urls.txt"
+    batch_file = f"results/batches/email_pass2_{idx:03d}.csv"
+    url_log_file = f"tmp/email_pass2_{idx:03d}_urls.txt"
     
     # Parse faculty names
     faculty_list = uni['Faculty_Names'].split('; ') if uni['Faculty_Names'] else []
